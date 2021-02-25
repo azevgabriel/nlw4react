@@ -53,19 +53,24 @@ export function ChallengesProvider({ children }: ChallengesProviderProps) {
 
         if(Notification.permission === 'granted'){
             new Notification('Novo desafio!', {
-                body: `Valendo ${challenge.amount} xp!`
+                body: `Valendo ${challenge.amount} xp!`,
+                silent: true,
+                icon: "favicon.png"                
             })
         }        
     }
 
     function resetChallenge(){
-        setActiveChallenge(null);
+        new Audio('/failure.mp3').play();
+        setActiveChallenge(null); 
     }
 
     function completeChallenge(){
         if(!activeChallenge){
             return;
         }
+
+        new Audio('/success.mp3').play();
 
         const { amount } = activeChallenge;
 
