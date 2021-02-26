@@ -3,7 +3,7 @@
 
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
- <a href="#Features">Features</a> • 
+ <a href="#Next-Level">Next-Level</a> • 
  <a href="#Pré-requisitos">Pré-requisitos</a> • 
  <a href="#Tecnologias">Tecnologias</a> • 
  <a href="#licenca">Licença</a> • 
@@ -14,19 +14,22 @@
 ### Objetivo
 
 <p align="center">"Fazer o usuário se movimentar após um rotina de trabalho ou estudo."</p>
-<p align="center"> Projeto inicialmente idealizado pela <a href="https://rocketseat.com.br/">Rocketseat</a> 🚀, nomeado como Move.it, porém com permissão de continuidade no projeto!</p>
+Projeto inicialmente idealizado pela <a href="https://rocketseat.com.br/">Rocketseat</a> 🚀, nomeado como Move.it, porém com permissão de continuidade no projeto!
+Aplicação pode ser acessada pelo link: <a href="https://stretch.vercel.app/">Strech</a>.
 
-### Features
+### Next-Level
 
 - [ ] Cadastro de usuário
-- [ ] Login de usúario
+- [ ] Login de usúario com o GitHub: oauth
+- [ ] Buscar os dados públicos: foto e nome
 - [ ] Notificação de LevelUp
-- [ ] Banco de dados com os usuários
 - [ ] Botão de compartilhamento nas rede
 - [ ] Ter como adicionar amigos
 - [ ] Ver o progresso dos seus amigos
 - [ ] Novos desafios
 - [ ] Ranking
+- [ ] Tema Dark
+- [ ] Mobile com PWA do Next
 
 ### Pré-requisitos
 
