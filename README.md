@@ -25,13 +25,13 @@ Acesso da aplicação pelo site: <a align="center" href="https://stretch-azevgab
 - [ ] Cadastro de usuário
 - [ ] Login de usúario com o GitHub: oauth
 - [ ] Buscar os dados públicos: foto e nome
-- [ ] Notificação de LevelUp
+- [x] Notificação de LevelUp
 - [ ] Botão de compartilhamento nas rede
 - [ ] Ter como adicionar amigos
 - [ ] Ver o progresso dos seus amigos
 - [ ] Novos desafios
 - [ ] Ranking
-- [ ] Tema Dark
+- [ ] <a href="https://github.com/azevgabriel/light-dark.react">Tema Dark</a>
 - [ ] Mobile com PWA do Next
 
 ### Pré-requisitos
@@ -77,6 +77,3 @@ Projeto inicialmente idealizado pela <a href="https://rocketseat.com.br/">Rocket
 Foto   | Descrição
 --------- | ------
 <img src="https://github.com/azevgabriel.png" width="240" height="240"/>| <strong>Gabriel Azevedo</strong>, 1999 </br> Estudante de Engenharia de Computação </br>IFSULDEMINAS - Poços de Caldas</br></br> - <a href="https://github.com/azevgabriel">GitHub</a> </br> - <a href="https://www.linkedin.com/in/azevgabriel/">LinkedIn</a>
-
-
-
