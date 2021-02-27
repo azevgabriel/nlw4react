@@ -2,20 +2,23 @@
 <h1 align="center">Stretch</h1>
 
 <p align="center">
- <a href="#objetivo">Objetivo</a> •
+ <a href="#Objetivo">Objetivo</a> •
+ <a href="#Acesso">Acesso</a> •
  <a href="#Next-Level">Next-Level</a> • 
  <a href="#Pré-requisitos">Pré-requisitos</a> • 
  <a href="#Tecnologias">Tecnologias</a> • 
- <a href="#licenca">Licença</a> • 
- <a href="#autor">Autores</a>
+ <a href="#Licença">Licença</a> • 
+ <a href="#Autores">Autores</a>
 </p>
 
 
 ### Objetivo
 
 <p align="center">"Fazer o usuário se movimentar após um rotina de trabalho ou estudo."</p>
-Projeto inicialmente idealizado pela <a href="https://rocketseat.com.br/">Rocketseat</a> 🚀, nomeado como Move.it, porém com permissão de continuidade no projeto!
-Aplicação pode ser acessada pelo link: <a href="https://stretch.vercel.app/">Strech</a>.
+
+### Acesso
+
+Acesso da aplicação pelo site: <a align="center" href="https://stretch-azevgabriel.vercel.app/">Strech</a>, use para estudar ou trabalhar de maneira mais produtiva!
 
 ### Next-Level
 
@@ -59,7 +62,7 @@ $ yarn dev
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
+- [ReactJS](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Yarn](https://yarnpkg.com/)
 
@@ -69,5 +72,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### Autores
 
-🚧 Em construção... 🚧
+Projeto inicialmente idealizado pela <a href="https://rocketseat.com.br/">Rocketseat</a> 🚀, nomeado como Move.it, porém com permissão de continuidade no projeto!
+
+Foto   | Descrição
+--------- | ------
+<img src="https://github.com/azevgabriel.png" width="240" height="240"/>| <strong>Gabriel Azevedo</strong>, 1999 </br> Estudante de Engenharia de Computação </br>IFSULDEMINAS - Poços de Caldas</br></br> - <a href="https://github.com/azevgabriel">GitHub</a> </br> - <a href="https://www.linkedin.com/in/azevgabriel/">LinkedIn</a>
+
+
 
