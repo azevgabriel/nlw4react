@@ -30,8 +30,8 @@ export default function Home(props:HomeProps) {
         <Head>
           <title>Inicio | Stretch</title>
         </Head>
-        <ExperienceBar />
         <CountdownProvider>
+        <ExperienceBar />
           <section>
             <div>
               <Profile />
