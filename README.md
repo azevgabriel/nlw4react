@@ -1,4 +1,4 @@
-<img style=(widht:75%) src="img/screenshot.png">
+<img style=(widht:75%) src="assets/index.gif">
 <h1 align="center">Stretch</h1>
 
 <p align="center">
@@ -45,11 +45,11 @@ $ $ git clone <https://github.com/azevgabriel/nlw4react>
 $ cd nlw4react
 
 # Instale as dependências
-$ npm install next
+$ npm install
 $ yarn install
 
 # Execute a aplicação
-$ yarn next
+$ yarn dev
 
 # O servidor iniciará na porta:3000 - acesse <http://localhost:3000>
 ```
@@ -61,6 +61,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [Yarn](https://yarnpkg.com/)
 
 ### Licença
 
