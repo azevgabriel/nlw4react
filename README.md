@@ -1,44 +1,40 @@
-<img style=(widht:75%) src="assets/index.gif">
-<h1 align="center">Stretch</h1>
+<h1 align="center">myStudies</h1>
 
 <p align="center">
  <a href="#Objetivo">Objetivo</a> •
- <a href="#Acesso">Acesso</a> •
- <a href="#Next-Level">Next-Level</a> • 
- <a href="#Pré-requisitos">Pré-requisitos</a> • 
- <a href="#Tecnologias">Tecnologias</a> • 
- <a href="#Licença">Licença</a> • 
+ <a href="#Pré-Requisitos">Pré-Requisitoso</a> •
+ <a href="#1.">NLW4 (REACT)</a> • 
  <a href="#Autores">Autores</a>
 </p>
 
+## Objetivo
 
-### Objetivo
+<p align="center">"Hub de projetos de estudos!"</p>
 
-<p align="center">"Fazer o usuário se movimentar após um rotina de trabalho ou estudo."</p>
-
-### Acesso
-
-Acesso da aplicação pelo site: <a align="center" href="https://stretch-azevgabriel.vercel.app/">Strech</a>, use para estudar ou trabalhar de maneira mais produtiva!
-
-### Next-Level
-
-- [ ] Cadastro de usuário
-- [ ] Login de usúario com o GitHub: oauth
-- [ ] Buscar os dados públicos: foto e nome
-- [x] Notificação de LevelUp
-- [ ] Botão de compartilhamento nas rede
-- [ ] Ter como adicionar amigos
-- [ ] Ver o progresso dos seus amigos
-- [ ] Novos desafios
-- [ ] Ranking
-- [ ] <a href="https://github.com/azevgabriel/light-dark.react">Tema Dark</a>
-- [ ] Mobile com PWA do Next
-
-### Pré-requisitos
+## Pré-Requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+
+## 1. NLW4 (REACT)
+
+<p align="center">
+    <a href="#1.1">Descrição</a> •
+    <a href="#1.2">Acesso</a> •
+    <a href="#1.3">Pré-requisitos</a> • 
+    <a href="#1.4">Tecnologias</a> • 
+</p>
+
+### 1.1 Descrição
+
+Projeto inicialmente idealizado pela <a href="https://rocketseat.com.br/">Rocketseat</a> 🚀, nomeado como Move.it, porém com permissão de continuidade no projeto!
+
+### 1.2 Acesso
+
+Acesso da aplicação pelo site: <a align="center" href="https://stretch-azevgabriel.vercel.app/">Strech</a>, use para estudar ou trabalhar de maneira mais produtiva!
+
+### 1.3 Pré-requisitos
 
 ```bash
 # Clone este repositório
@@ -48,7 +44,6 @@ $ $ git clone <https://github.com/azevgabriel/nlw4react>
 $ cd nlw4react
 
 # Instale as dependências
-$ npm install
 $ yarn install
 
 # Execute a aplicação
@@ -57,7 +52,7 @@ $ yarn dev
 # O servidor iniciará na porta:3000 - acesse <http://localhost:3000>
 ```
 
-### Tecnologias
+### 1.4 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -66,13 +61,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [TypeScript](https://www.typescriptlang.org/)
 - [Yarn](https://yarnpkg.com/)
 
-### Licença
-
-🚧 Em construção... 🚧
-
-### Autores
-
-Projeto inicialmente idealizado pela <a href="https://rocketseat.com.br/">Rocketseat</a> 🚀, nomeado como Move.it, porém com permissão de continuidade no projeto!
+## Autor
 
 Foto   | Descrição
 --------- | ------
