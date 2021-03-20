@@ -3,7 +3,7 @@
 <p align="center">
  <a href="#Objetivo">Objetivo</a> •
  <a href="#Pré-Requisitos">Pré-Requisitoso</a> •
- <a href="#1.">NLW4 (REACT)</a> • 
+ <a href="#1.NLW4 ">NLW4 (React)</a> • 
  <a href="#Autores">Autores</a>
 </p>
 
@@ -17,14 +17,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-## 1. NLW4 (REACT)
-
-<p align="center">
-    <a href="#1.1">Descrição</a> •
-    <a href="#1.2">Acesso</a> •
-    <a href="#1.3">Pré-requisitos</a> • 
-    <a href="#1.4">Tecnologias</a> • 
-</p>
+## 1.NLW4 (React)
 
 ### 1.1 Descrição
 
