@@ -4,7 +4,7 @@
  <a href="#Objetivo">Objetivo</a> •
  <a href="#Pré-Requisitos">Pré-Requisitoso</a> •
  <a href="#1-nlw4-react">NLW4 (React)</a> • 
- <a href="#Autores">Autores</a>
+ <a href="#Autor">Autor</a>
 </p>
 
 ## Objetivo
@@ -31,7 +31,7 @@ Acesso da aplicação pelo site: <a align="center" href="https://stretch-azevgab
 
 ```bash
 # Clone este repositório
-$ $ git clone <https://github.com/azevgabriel/nlw4react>
+$ $ git clone https://github.com/azevgabriel/nlw4react.git
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd nlw4react
