@@ -3,7 +3,7 @@
 <p align="center">
  <a href="#Objetivo">Objetivo</a> •
  <a href="#Pré-Requisitos">Pré-Requisitoso</a> •
- <a href="#NLW4_(React)">NLW4 (React)</a> • 
+ <a href="#1-nlw4-react">NLW4 (React)</a> • 
  <a href="#Autores">Autores</a>
 </p>
 
