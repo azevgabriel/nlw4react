@@ -6,7 +6,7 @@
  <a href="#1-basic-back-end-express">Basic Back-end</a> • 
  <a href="#2-basic-front-end-react">Basic Front-end</a> • 
  <a href="#3-basic-typescript">Basic Typescript</a> • 
- <a href="#4-first-project-with-node.js">First Project Node.js</a> • 
+ <a href="#4-first-project-with-nodejs">First Project Node.js</a> • 
  <a href="#5-nlw4-react">NLW4</a> • 
  <a href="#Autor">Autor</a>
 </p>
@@ -190,5 +190,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## Autor
 
 Foto   | Descrição
---------- | ------
+:---: | :---:
 <img src="https://github.com/azevgabriel.png" width="240" height="240"/>| <strong>Gabriel Azevedo</strong>, 1999 </br> Estudante de Engenharia de Computação </br>IFSULDEMINAS - Poços de Caldas</br></br>[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/azevgabriel)](https://github.com/azevgabriel)[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/azevgabriel/)](https://www.linkedin.com/in/azevgabriel/)[![Vercel Badge](https://img.shields.io/badge/-Vercel-blueviolet?style=flat-square&logo=Vercel&link=https://https://vercel.com/azevgabriel/)](https://vercel.com/azevgabriel/)
