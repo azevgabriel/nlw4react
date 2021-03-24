@@ -2,7 +2,7 @@
 
 <p align="center">
  <a href="#Objetivo">Objetivo</a> •
- <a href="#Pré-Requisitos">Pré-Requisitoso</a> •
+ <a href="#Pré-Requisitos">Pré-Requisitos</a> •
  <a href="#1-basic-back-end-express">Basic Back-end</a> • 
  <a href="#2-basic-front-end-react">Basic Front-end</a> • 
  <a href="#3-nlw4-react">NLW4</a> • 
@@ -13,7 +13,7 @@
 
 <p align="center">"Hub de projetos de estudos!"</p>
 
-## Pré-Requisitos
+## Pré-Requisitos Gerais
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
