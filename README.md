@@ -6,8 +6,9 @@
  <a href="#1-basic-back-end-express">Basic Back-end</a> • 
  <a href="#2-basic-front-end-react">Basic Front-end</a> • 
  <a href="#3-basic-typescript">Basic Typescript</a> • 
- <a href="#4-first-project-with-nodejs">First Project Node.js</a> • 
- <a href="#5-nlw4-react">NLW4</a> • 
+ <a href="#4-first-project-with-reactjs">First Project ReactJS</a> • 
+ <a href="#5-first-project-with-nodejs">First Project Node.js</a> • 
+ <a href="#6-nlw4-react">NLW4</a> • 
  <a href="#Autor">Autor</a>
 </p>
 
@@ -116,13 +117,48 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Yarn](https://yarnpkg.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 
-## 4. First project with Node.js
+## 4. First project with ReactJS
 
 ### 4.1 Descrição
 
 Conceitos sobre estrutura, ESlint e Debug em um projeto Node.js, bootcamp GoStack 11 pela <a href="https://rocketseat.com.br/">Rocketseat</a> 🚀.
 
 ### 4.2 Pré-requisitos
+
+```bash
+# Clone este repositório
+$ $ git clone https://github.com/azevgabriel/myStudies.git
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd first-project-react
+
+# Instale as dependências
+$ yarn install
+
+# Execute a aplicação
+$ yarn start
+
+# O servidor iniciará na porta:3000 - acesse <http://localhost:3000>
+```
+
+### 4.3 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Node.js](https://nodejs.org/en/)
+- [ReactJS](https://pt-br.reactjs.org/)
+- [Yarn](https://yarnpkg.com/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [ESLint](https://eslint.org/)
+- [Prettier](https://prettier.io/)
+
+## 5. First project with Node.js
+
+### 5.1 Descrição
+
+Conceitos sobre estrutura, ESlint e Debug em um projeto Node.js, bootcamp GoStack 11 pela <a href="https://rocketseat.com.br/">Rocketseat</a> 🚀.
+
+### 5.2 Pré-requisitos
 
 ```bash
 # Clone este repositório
@@ -140,7 +176,7 @@ $ yarn dev:server
 # O servidor iniciará na porta:3333 - acesse <http://localhost:3333>
 ```
 
-### 4.3 Tecnologias
+### 5.3 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -149,18 +185,21 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [TypeScript](https://www.typescriptlang.org/)
 - [ESLint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
+- [Docker](https://www.docker.com/)
+- [PostgreSQL](https://www.postgresql.org/)
+- [TypeORM](https://typeorm.io/#/)
 
-## 5. NLW4 (React)
+## 6. NLW4 (React)
 
-### 5.1 Descrição
+### 6.1 Descrição
 
 Projeto inicialmente idealizado pela <a href="https://rocketseat.com.br/">Rocketseat</a> 🚀, nomeado como Move.it, porém com permissão de continuidade no projeto!
 
-### 5.2 Acesso
+### 6.2 Acesso
 
 Acesso da aplicação pelo site: <a align="center" href="https://stretch-azevgabriel.vercel.app/">Strech</a>, use para estudar ou trabalhar de maneira mais produtiva!
 
-### 5.3 Pré-requisitos
+### 6.3 Pré-requisitos
 
 ```bash
 # Clone este repositório
@@ -178,7 +217,7 @@ $ yarn dev
 # O servidor iniciará na porta:3000 - acesse <http://localhost:3000>
 ```
 
-### 5.4 Tecnologias
+### 6.4 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
