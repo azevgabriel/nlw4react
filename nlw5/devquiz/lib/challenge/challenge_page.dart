@@ -2,12 +2,15 @@ import 'package:DevQuiz/challenge/challenge_controller.dart';
 import 'package:DevQuiz/challenge/widgets/next_button/next_button_widget.dart';
 import 'package:DevQuiz/challenge/widgets/question_indication/question_indication_widget.dart';
 import 'package:DevQuiz/challenge/widgets/quiz/quiz_widget.dart';
+import 'package:DevQuiz/result/result_page.dart';
 import 'package:DevQuiz/shared/models/question_model.dart';
 import 'package:flutter/material.dart';
 
 class ChallengePage extends StatefulWidget {
   final List<QuestionModel> questions;
-  ChallengePage({Key? key, required this.questions}) : super(key: key);
+  final String title;
+  ChallengePage({Key? key, required this.questions, required this.title})
+      : super(key: key);
 
   @override
   _ChallengePageState createState() => _ChallengePageState();
@@ -30,6 +33,13 @@ class _ChallengePageState extends State<ChallengePage> {
         duration: Duration(milliseconds: 300),
         curve: Curves.linear,
       );
+  }
+
+  void onSelected(bool value) {
+    if (value) {
+      controller.qtdAnwserRight++;
+    }
+    nextPage();
   }
 
   Widget build(BuildContext context) {
@@ -60,7 +70,7 @@ class _ChallengePageState extends State<ChallengePage> {
             .map(
               (e) => QuizWidget(
                 question: e,
-                onChange: nextPage,
+                onChange: onSelected,
               ),
             )
             .toList(),
@@ -89,7 +99,18 @@ class _ChallengePageState extends State<ChallengePage> {
                   Expanded(
                     child: NextButtonWidget.green(
                       label: "Confirmar",
-                      onTap: () {},
+                      onTap: () {
+                        Navigator.pushReplacement(
+                          context,
+                          MaterialPageRoute(
+                            builder: (context) => ResultPage(
+                              title: widget.title,
+                              length: widget.questions.length,
+                              result: controller.qtdAnwserRight,
+                            ),
+                          ),
+                        );
+                      },
                     ),
                   ),
               ],
