@@ -78,7 +78,7 @@ Conteúdo sobre:
     * Estado e useState
     * Ciclo de vida e useEffect
 
-### Autor do Curso
+### Autor da Semana
 
 Foto   | Descrição
 :---: | :---:
