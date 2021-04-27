@@ -182,7 +182,7 @@ $ $ git clone https://github.com/azevgabriel/myStudies.git
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd GoStack
-$ cd first_project_node
+$ cd gobarber-web 
 
 # Instale as dependências
 $ yarn install
