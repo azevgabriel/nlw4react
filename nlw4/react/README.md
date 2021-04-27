@@ -14,10 +14,11 @@ Acesso da aplicação pelo site: <a align="center" href="https://stretch-azevgab
 
 ```bash
 # Clone este repositório
-$ $ git clone https://github.com/azevgabriel/myStudies.git
+$ git clone https://github.com/azevgabriel/myStudies.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd nlw4\(React\)/
+$ cd nlw4
+$ cd react
 
 # Instale as dependências
 $ yarn
