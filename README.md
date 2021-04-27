@@ -32,7 +32,7 @@ Foto   | Descrição
 
 ## GoStack (Em andamento)
 
-Curso sobre as tecnologias Node.js, ReactJS e ReactJS. 
+Curso sobre as tecnologias Node.js, ReactJS e React Native.
 
 ### Descrição sobre o curso
 
