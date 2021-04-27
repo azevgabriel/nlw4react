@@ -1,16 +1,17 @@
-# devquiz
+## NLW5
 
-A new Flutter project.
+## NLW5 Trilha de Flutter
 
-## Getting Started
+### 1 - Descrição
 
-This project is a starting point for a Flutter application.
+Projeto inicialmente idealizado pela <a href="https://rocketseat.com.br/">Rocketseat</a> 🚀, nomeado como DevQuiz!
 
-A few resources to get you started if this is your first Flutter project:
+### 6.3 Pré-requisitos
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Em construção!
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 6.4 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+<br/>
+Em construção!
