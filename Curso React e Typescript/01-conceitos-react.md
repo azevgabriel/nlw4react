@@ -1,8 +1,8 @@
--- Video 01 --
+# -- Video 01 --
 
-O que é o que React?
+## O que é o que React?
 
-Uma biblioteca ou framework? 
+### Uma biblioteca ou framework? 
 
 Uma biblioteca/framework para trabalhar com desenvolvimento Frontend!
 Inicialmente era para ser uma biblioteca, 
@@ -21,6 +21,7 @@ JSX: Javascript XML (HTML no Javascript)
 
 Exemplo de JSX: 
 
+```jsx
 function Button(){
     return (
         <button>
@@ -28,12 +29,14 @@ function Button(){
         </button>
     );
 }
-
+```
 Componentização: A gente criar nossas próprias Tags ou Componentes!
 
 Exemplo de Componentização:
 
+```javascript
 <Button></Button> // É diferente do HTML, por causada letra maiúscula no início da Tag!
+```
 
 -- Video 02 --
 
@@ -42,7 +45,7 @@ Babel: Transpilação do código
 JS mais atual para um JS mais arcaico >> Fazendo todos os navegadores entenderem!
 
 Webpack: Module bundler, semelhante ao Babel porém com outros tipos de arquivos.
-Exemplo: CSS, <img/>, outros pacotes...
+Exemplo: CSS, img, outros pacotes...
 
 -- Video 03 --
 
@@ -73,4 +76,6 @@ Children: É uma propriedade que a gente passa entre as tags.
 
 Exemplo de Children:
 
+```javascript
 <Button> Teste <Button>
+```

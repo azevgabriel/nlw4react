@@ -20,13 +20,14 @@ export default function List(){
         }
     }, []);
 
-    /* useEffect nâo pode ser Async */
+    /* useEffect não pode ser Async */
     useEffect(() => {
         async function setUserRepositories(){
             await localStorage.setItem('user-repositories', JSON.stringify({}));
         }
 
         setUserRepositories();
+        //Porém dá para fazer um useEffect assíncrono desta forma!
     }, []);
 
     return (

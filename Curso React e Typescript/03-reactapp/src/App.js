@@ -68,6 +68,9 @@ function App() {
     const localStorageUserDate = localStorage.getItem('@reactapp:GITHUB_USER_DATA');
     setUserData(JSON.parse(localStorageUserDate));
   }, []);
+  // Persistir dados no nosso Front End
+  // Local Storage x Session Storage
+  // Session é só quando a aba tiver aberta.
 
   async function getUserGithubData(){
     const {data} = await api.get(username);
