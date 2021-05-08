@@ -1,2 +1,0 @@
-01) Add ao README, que para instalar as dependencias yarn é apenas rodar o comando yarn no cmd.
-02) Aprender sobre testes!

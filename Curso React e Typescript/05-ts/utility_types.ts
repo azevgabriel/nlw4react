@@ -78,3 +78,33 @@ function printAlgo(params: Callback){}
 function callback(nome: string){}
 
 printAlgo(callback);
+
+// Decorator: Type ORM or AngularJs
+
+function logger(target: any){
+    console.log(target);
+}
+
+//@logger
+class User {
+    nome: string;
+
+    constructor (){
+        this.nome = "Levir";
+    }
+}
+
+// Type assertions: forçar o type a aceitar um tipo - as: como
+
+const unk: unknown = '';
+
+const str: string = unk as string;
+
+interface User {
+    nome: string;
+}
+
+const user: User = {} as User;
+
+// Essa abordagem é um pouco perigosa,
+// Pode dar problema no código.

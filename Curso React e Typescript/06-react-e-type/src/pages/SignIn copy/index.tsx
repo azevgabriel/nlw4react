@@ -1,10 +1,10 @@
-import React, { useContext } from 'react';
-import { AuthContext } from '../../contexts/auth';
+import React from 'react';
+import { useAuth } from '../../contexts/auth';
 
 import { Container } from '../Dashboard/styles'
 
 const SignIn: React.FC = () => {
-    const {signed, signIn, loading} = useContext(AuthContext);
+    const {signed, signIn, loading} = useAuth();
     console.log(signed);
 
     function handleSignIn() {
