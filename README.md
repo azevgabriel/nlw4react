@@ -17,23 +17,23 @@ Sobre os demais requisitos, será detalhado em cada pasta em um novo README.
 
 Conteúdo sobre:
 
-  * Fundamentos do React
-    * Conceitos de Babel e Webpack
-    * Componentização
-    * Props e Children
-    * Estado e useState
-    * Ciclo de vida e useEffect
-   * Fundamentos do TypeScript
-    * História do Type 
-    * Todas as tipagens
-    * Interfaces
-    * Utility Types
-    * Decorations
-   * React + Type
-    * Styled Components
-    * React Router DOM
-    * Context API
-    * Criando Hooks
+ * Fundamentos do React
+   * Conceitos de Babel e Webpack
+   * Componentização
+   * Props e Children
+   * Estado e useState
+   * Ciclo de vida e useEffect
+ * Fundamentos do TypeScript
+   * História do Type 
+   * Todas as tipagens
+   * Interfaces
+   * Utility Types
+   * Decorations
+ * React + Type
+   * Styled Components
+   * React Router DOM
+   * Context API
+   * Criando Hooks
     
 ### Autor do Curso
 
@@ -60,7 +60,7 @@ Conteúdo sobre:
     * Insomnia
     * Middlewares
     * Docker
-     * PostgreSQL
+      * PostgreSQL
     * Dbeaver
     * LocalStorage
     * Express, Axios e Cors
