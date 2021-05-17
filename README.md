@@ -11,7 +11,20 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguinte 
 [Git](https://git-scm.com), além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)</br>
 Sobre os demais requisitos, será detalhado em cada pasta em um novo README.
 
-## Curso de React e TypeScript (Em Andamento)
+## CSS Flex-Box (Em Andamento)
+
+### Descrição
+
+  - Display: Flex
+  - Flex-Direction
+  - Flex-Wrap
+  - Align-Items & Justify-Content
+
+Foto   | Descrição
+:---: | :---:
+?? | ??
+
+## Curso de React e TypeScript
 
 ### Descrição
 
@@ -76,6 +89,44 @@ Conteúdo sobre:
 Foto   | Descrição
 :---: | :---:
 <img src="https://github.com/Rocketseat.png" width="120" height="120"/>| <strong>Rocketseat</strong></br></br>[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Rocketseat)](https://github.com/Rocketseat)[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/school/rocketseat/?originalSubdomain=br)](https://www.linkedin.com/school/rocketseat/?originalSubdomain=br)
+
+## React Avançado (Em andamento)
+
+Curso sobre as tecnologias Node.js, ReactJS e React Native.
+
+### Descrição sobre o curso
+
+Conteúdo sobre:
+
+  * Introdução ao Next.JS
+  * SSG x SPA x SSR
+    * Vantagens e Desavantagens
+  * Introduçâo ao GraphQL
+    * Query/Mutations
+    * Fetch Client x Caching Client
+      * Apollo Client
+  * Introdução ao STRAPI
+    * Headless CMS x CMS Tradicional
+    * 100% Open-Source
+    * Altamente customizázel
+    * REST API or GraphQL
+    * Self Hosted
+    * Codebase in JS
+    * Segurança
+  * CSS-in-JS
+    * Styled-Components
+  * Introdução a Testes
+    * Testes Unitários & Testes Funcionais
+    * TDD - Test-driven Development
+    * JEST or Cypŕess
+    * React Testing Library
+  * ESLint    
+  
+### Autor do Curso
+
+Foto   | Descrição
+:---: | :---:
+?? | ??
 
 ## NLW4
 
