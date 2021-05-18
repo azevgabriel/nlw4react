@@ -120,7 +120,15 @@ Conteúdo sobre:
     * TDD - Test-driven Development
     * JEST or Cypŕess
     * React Testing Library
-  * ESLint    
+  * ESLint e Prettier
+  * Husky e Lint-Staged
+    * Pre-commit com Jest
+  * Jest + TypeScript
+  * React Testing Library
+  * Styled Components
+    * Configuraçâo para SSR
+  * Jest-Styled-Components
+  * Storybook     
   
 ### Autor do Curso
 
