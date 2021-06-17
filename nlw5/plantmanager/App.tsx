@@ -1,5 +1,5 @@
 import React from 'react';
-import { UserIdentification } from './src/pages/UserIdentification'
+import Routes from './src/routes'
 import AppLoading from 'expo-app-loading';
 
 import {
@@ -18,7 +18,7 @@ export default function App(){
     return <AppLoading />
   } else {
     return (
-      <UserIdentification />
+      <Routes />
     );
   }
 
